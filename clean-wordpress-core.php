@@ -1,5 +1,4 @@
 <?php
-
 /*
 Plugin Name: Clean WordPress Core & Backend Tuning
 Plugin URI: https://speedword.press/wordpress-clean-core/
